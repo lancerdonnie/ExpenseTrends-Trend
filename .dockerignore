@@ -1,0 +1,9 @@
+test.rest
+README.md
+node_modules
+dist
+/frontend/out
+/frontend/node_modules
+/frontend/.next/
+.env
+docker-compose.yml
