@@ -4,7 +4,7 @@
 
 > A fullstack microservice application for viewing users' financial summary and recurring expensetrends.
 
-## Visit [clubboyage.herokuapp.com](https://expensetrends.herokuapp.com/) to test the live api!
+## Visit [expensetrends.herokuapp.com](https://expensetrends.herokuapp.com/) to test the live api!
 
 ## Main Repository
 
