@@ -12,5 +12,5 @@ export default async ({
 }) => {
   app.use(json());
   app.use(cors());
-  app.use(container.cradle.TrendController);
+  app.use('/trend', container.cradle.TrendController);
 };
